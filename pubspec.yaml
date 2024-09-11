@@ -1,0 +1,66 @@
+name: brik
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #* Network
+  dio: ^5.4.3+1
+  url_launcher: ^6.1.5
+
+  #* Dart data class
+  freezed_annotation: ^2.2.0
+  json_annotation: ^4.7.0
+
+  #* UI
+  cached_network_image: ^3.3.0
+  flash: ^3.0.5+1
+  flutter_keyboard_visibility: ^6.0.0
+  flutter_svg: ^2.0.0
+  google_fonts: ^6.2.1
+
+  #* Code generator
+  riverpod: ^2.4.3
+  riverpod_annotation: ^2.2.0
+
+  #* State management
+  flutter_hooks: ^0.20.4
+  hooks_riverpod: ^2.4.3
+
+  #* Logging
+  logging: ^1.1.0
+
+  #* Routing
+  go_router: ^14.2.7
+
+  #* Misc
+  collection: ^1.16.0
+  dartz: ^0.10.1
+  currency_text_input_formatter: ^2.2.3
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  #* Code generators
+  build_runner: ^2.3.2
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.2.13
+  freezed: ^2.2.1
+  json_serializable: ^6.5.4
+  riverpod_generator: ^2.3.3
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  # - images/
