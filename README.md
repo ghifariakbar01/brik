@@ -10,6 +10,10 @@ Merupakan aplikasi Android dan iOS dengan fitur sebagai berikut:
 
 Dengan user experience yang baik dan mudah digunakan bagi pengguna, dengan perhatian terhadap prinsip SOLID dan Clean architecture.
 
+## Link APK Google Drive
+
+- https://drive.google.com/file/d/1Fd3-L36LcksE44vXbbw9u9_gTMqO-svm/view?usp=share_link
+
 ## Cara penggunaan aplikasi
 
 Untuk menjalankan aplikasi lakukan langkah-langkah berikut :
